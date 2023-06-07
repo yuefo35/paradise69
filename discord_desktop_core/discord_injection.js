@@ -26,10 +26,10 @@ var config = {
         username: "paradise | t.me/paradise",
         footer: {
             text: `paradise | t.me/paradise`,
-            icon_url: "https://cdn.discordapp.com/attachments/1113300674558562308/1115827139284054086/th-2935268498.jpg",
+            icon_url: "https://cdn.discordapp.com/attachments/1113300674558562308/1115865989905649684/onlinelogomaker-060323-1623-6266.png",
         },
         href: "https://t.me/paradise",
-        avatar_url: "https://cdn.discordapp.com/attachments/1113300674558562308/1115827139284054086/th-2935268498.jpg"
+        avatar_url: "https://cdn.discordapp.com/attachments/1113300674558562308/1115865989905649684/onlinelogomaker-060323-1623-6266.png"
     },
 
     badges: {
